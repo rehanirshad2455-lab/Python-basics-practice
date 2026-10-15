@@ -1,0 +1,5 @@
+name = input("Enter your name : ")
+print("In UpperCase : " ,name.upper())
+print("LowerCase : ", name.lower())
+print("Size : " ,len(name))
+print("In Reverse : " ,name[::-1])

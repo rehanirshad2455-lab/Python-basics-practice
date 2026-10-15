@@ -1,0 +1,9 @@
+def calc_factorial(n):
+    result = 1
+    for i in range(1,n+1):
+        result = result * i
+    return result
+
+number = int(input("enter a numbe : "))
+answer = calc_factorial(number)
+print("factorial is" ,answer)

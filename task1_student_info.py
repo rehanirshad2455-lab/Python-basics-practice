@@ -1,0 +1,6 @@
+name = input("enter student's name : ")
+stu_age = input("enter age of student : ")
+Uni_name = input("enter university name : ")
+print("Student Name : " , name)
+print("Age : ", stu_age)
+print("University : ", Uni_name)
